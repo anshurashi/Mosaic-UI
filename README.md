@@ -1,4 +1,4 @@
-# MOSAIC UI
+# MOSAIC UI: Agency Website
 
 Welcome to the repository for the simple website of our Interface Design Agency. This project showcases a clean and responsive design to highlight our creative and professional services. Below is an overview of the project structure and instructions on how to get started.
 
